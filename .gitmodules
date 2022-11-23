@@ -1,0 +1,4 @@
+[submodule "regaby/payment"]
+	path = regaby/payment
+	url = git@github.com:regaby/payment.git
+	branch = 15.0_no_popup
